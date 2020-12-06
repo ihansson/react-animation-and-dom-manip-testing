@@ -10,7 +10,9 @@ function App() {
     <div className="App">
       <header>
         <Link to="/">A</Link>
+        <br />
         <Link to="/page-b">B</Link>
+        <br />
         <Link to="/page-c">C</Link>
       </header>
       <Switch>
